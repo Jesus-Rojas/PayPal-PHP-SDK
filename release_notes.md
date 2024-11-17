@@ -1,6 +1,10 @@
 PayPal PHP SDK release notes
 ============================
 
+v1.6.5
+----
+* Fixes #1
+
 v1.6.4
 ----
 * SSL Connect Error Fix

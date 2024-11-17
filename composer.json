@@ -3,6 +3,7 @@
     "description": "PayPal's PHP SDK for REST APIs",
     "keywords": ["paypal", "payments", "rest", "sdk"],
     "type": "library",
+    "version": "1.6.5",
     "license": "Apache2",
     "homepage": "http://paypal.github.io/PayPal-PHP-SDK/",
     "authors": [
